@@ -9,4 +9,4 @@ Tecnologías Utilizadas
 * Bootstrap
 * JavaScript
 
-Objetivo: Crear una página web sencilla pero funcional que presentara los servicios de la empresa.
+
